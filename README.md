@@ -14,3 +14,9 @@
 ## Как использовать этот репозиторий
 * Скачать статью: [Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf](ссылка)
 * Цитирование:
+@article{Chernoknizhny2026,
+title={The Birth of Time before the Big Bang},
+author={E. V. Chernoknizhny},
+year={2026},
+version={10.0}
+}
