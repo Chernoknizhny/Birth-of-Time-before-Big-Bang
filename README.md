@@ -12,13 +12,15 @@
 * Ограничения и будущие работы
 
 ## Как использовать этот репозиторий
-* Скачать статью: [Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf](ссылка)
-* Цитирование:
+
+### Загрузка статьи
+[Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf](Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf)
+
+### Цитирование
 @article{Chernoknizhny2026,title={The Birth of Time before the Big Bang},
 author={E. V. Chernoknizhny},
 year={2026},
-version={10.0}
-}
+version={10.0}}
 
 ## Важные примечания
 * Это препринтная версия статьи
@@ -35,7 +37,13 @@ version={10.0}
 * **Дата**: Октябрь 2026
 
 ## Файлы в репозитории
-* [README.md](README.md) — описание проекта
 * [.gitignore](.gitignore) — настройки игнорирования файлов
-* [LICENSE](LICENSE) — лицензия
+* [LICENSE](LICENSE) — лицензионное соглашение
+* [README.md](README.md) — описание проекта
 * [Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf](Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf) — основная статья
+
+## Как внести вклад в проект
+1. Создайте fork репозитория
+2. Создайте новую ветку для ваших изменений
+3. Внесите изменения
+4. Создайте pull request
