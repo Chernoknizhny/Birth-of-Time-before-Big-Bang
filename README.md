@@ -14,9 +14,28 @@
 ## Как использовать этот репозиторий
 * Скачать статью: [Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf](ссылка)
 * Цитирование:
-@article{Chernoknizhny2026,
-title={The Birth of Time before the Big Bang},
+@article{Chernoknizhny2026,title={The Birth of Time before the Big Bang},
 author={E. V. Chernoknizhny},
 year={2026},
 version={10.0}
 }
+
+## Важные примечания
+* Это препринтная версия статьи
+* Документ находится на рассмотрении
+* Комментарии приветствуются
+* Для цитирования используйте окончательную опубликованную версию
+
+## Лицензия
+Работа распространяется по лицензии [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+## Контакты
+* **Автор**: E. V. Chernoknizhny
+* **ORCID**: [0009-0007-2558-9172](https://orcid.org/0009-0007-2558-9172)
+* **Дата**: Октябрь 2026
+
+## Файлы в репозитории
+* [README.md](README.md) — описание проекта
+* [.gitignore](.gitignore) — настройки игнорирования файлов
+* [LICENSE](LICENSE) — лицензия
+* [Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf](Chernoknizhny_Birth-of-Time_v10_0_Submission.pdf) — основная статья
